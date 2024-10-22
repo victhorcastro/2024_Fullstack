@@ -1,5 +1,5 @@
 {
-  "name": "devfront-01-10-24",
+  "name": "projeto",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,9 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.0"
-  },
-  "devDependencies": {
+    "express": "^4.21.0",
+    "mongodb": "^3.6.12",
+    "mongoose": "^8.7.2",
     "nodemon": "^3.1.7"
   }
 }
